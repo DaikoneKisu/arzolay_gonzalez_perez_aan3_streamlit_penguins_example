@@ -4,5 +4,5 @@ build-backend = "poetry.core.masonry.api"
 
 [project]
 name = "arzolay_gonzalez_perez_aan3_streamlit_penguins_example"
-version = "1.0.0"
-dependencies = ["pandas", "numpy", "seaborn", "streamlit"]
+version = "0.1.0"
+dependencies = ["numpy", "seaborn", "streamlit", "matplotlib"]
