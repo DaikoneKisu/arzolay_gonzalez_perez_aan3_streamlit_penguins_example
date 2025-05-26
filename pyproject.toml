@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arzolay_gonzalez_perez_aan3_streamlit_penguins_example"
+version = "1.0.0"
+dependencies = ["pandas", "numpy", "seaborn", "streamlit"]
